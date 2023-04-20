@@ -1,0 +1,19 @@
+==> 2023-04-20 02:09:21 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda create -p mlenv python==3.9 -y
+# conda version: 23.3.1
++conda-forge/osx-arm64::python-3.9.0-h4b4120c_5_cpython
++defaults/noarch::tzdata-2023c-h04d1e81_0
++defaults/osx-arm64::ca-certificates-2023.01.10-hca03da5_0
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libffi-3.3-hc377ac9_2
++defaults/osx-arm64::ncurses-6.4-h313beb8_0
++defaults/osx-arm64::openssl-1.1.1t-h1a28f6b_0
++defaults/osx-arm64::pip-23.0.1-py39hca03da5_0
++defaults/osx-arm64::readline-8.2-h1a28f6b_0
++defaults/osx-arm64::setuptools-66.0.0-py39hca03da5_0
++defaults/osx-arm64::sqlite-3.41.2-h80987f9_0
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::wheel-0.38.4-py39hca03da5_0
++defaults/osx-arm64::xz-5.2.10-h80987f9_1
++defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
+# update specs: ['python==3.9']
