@@ -67,3 +67,178 @@
 +conda-forge/osx-arm64::tornado-6.3.2-py39h0f82c59_0
 +conda-forge/osx-arm64::zeromq-4.3.4-hbdafb3b_1
 # update specs: ['ipykernel']
+==> 2023-05-25 13:13:59 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda install scikit-learn
+# conda version: 23.3.1
+-conda-forge/osx-arm64::ca-certificates-2023.5.7-hf0a4a13_0
+-conda-forge/osx-arm64::openssl-1.1.1t-h03a7124_0
++conda-forge/osx-arm64::libblas-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::libcblas-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::liblapack-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::numpy-1.23.5-py39hefdcf20_0
++conda-forge/osx-arm64::scipy-1.10.1-py39h18313fe_0
++defaults/noarch::appdirs-1.4.4-pyhd3eb1b0_0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::pooch-1.4.0-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++defaults/osx-arm64::brotlipy-0.7.0-py39h1a28f6b_1002
++defaults/osx-arm64::ca-certificates-2023.01.10-hca03da5_0
++defaults/osx-arm64::certifi-2023.5.7-py39hca03da5_0
++defaults/osx-arm64::cffi-1.15.1-py39h22df2f2_0
++defaults/osx-arm64::cryptography-39.0.1-py39h834c97f_0
++defaults/osx-arm64::idna-3.4-py39hca03da5_0
++defaults/osx-arm64::joblib-1.1.1-py39hca03da5_0
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::openssl-1.1.1t-h1a28f6b_0
++defaults/osx-arm64::pyopenssl-23.0.0-py39hca03da5_0
++defaults/osx-arm64::pysocks-1.7.1-py39hca03da5_0
++defaults/osx-arm64::requests-2.29.0-py39hca03da5_0
++defaults/osx-arm64::scikit-learn-1.2.2-py39h313beb8_1
++defaults/osx-arm64::urllib3-1.26.15-py39hca03da5_0
+# update specs: ['scikit-learn']
+==> 2023-05-25 13:17:25 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda install numpy
+# conda version: 23.3.1
+-conda-forge/osx-arm64::numpy-1.23.5-py39hefdcf20_0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::numpy-1.24.3-py39h1398885_0
++defaults/osx-arm64::numpy-base-1.24.3-py39h90707a3_0
+# update specs: ['numpy']
+==> 2023-05-25 13:27:56 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda uninstall scikit-learn
+# conda version: 23.3.1
+-conda-forge/noarch::appnope-0.1.3-pyhd8ed1ab_0
+-conda-forge/noarch::asttokens-2.2.1-pyhd8ed1ab_0
+-conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
+-conda-forge/noarch::backports-1.0-pyhd8ed1ab_3
+-conda-forge/noarch::backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0
+-conda-forge/noarch::comm-0.1.3-pyhd8ed1ab_0
+-conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
+-conda-forge/noarch::executing-1.2.0-pyhd8ed1ab_0
+-conda-forge/noarch::importlib-metadata-6.6.0-pyha770c72_0
+-conda-forge/noarch::importlib_metadata-6.6.0-hd8ed1ab_0
+-conda-forge/noarch::ipython-8.13.2-pyhd1c38e8_0
+-conda-forge/noarch::jedi-0.18.2-pyhd8ed1ab_0
+-conda-forge/noarch::jupyter_client-8.2.0-pyhd8ed1ab_0
+-conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
+-conda-forge/noarch::nest-asyncio-1.5.6-pyhd8ed1ab_0
+-conda-forge/noarch::packaging-23.1-pyhd8ed1ab_0
+-conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
+-conda-forge/noarch::pexpect-4.8.0-pyh1a96a4e_2
+-conda-forge/noarch::pickleshare-0.7.5-py_1003
+-conda-forge/noarch::platformdirs-3.5.1-pyhd8ed1ab_0
+-conda-forge/noarch::prompt-toolkit-3.0.38-pyha770c72_0
+-conda-forge/noarch::prompt_toolkit-3.0.38-hd8ed1ab_0
+-conda-forge/noarch::ptyprocess-0.7.0-pyhd3deb0d_0
+-conda-forge/noarch::pure_eval-0.2.2-pyhd8ed1ab_0
+-conda-forge/noarch::pygments-2.15.1-pyhd8ed1ab_0
+-conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
+-conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
+-conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
+-conda-forge/noarch::traitlets-5.9.0-pyhd8ed1ab_0
+-conda-forge/noarch::typing-extensions-4.6.1-hd8ed1ab_0
+-conda-forge/noarch::typing_extensions-4.6.1-pyha770c72_0
+-conda-forge/noarch::wcwidth-0.2.6-pyhd8ed1ab_0
+-conda-forge/noarch::zipp-3.15.0-pyhd8ed1ab_0
+-conda-forge/osx-arm64::jupyter_core-5.3.0-py39h2804cbe_0
+-conda-forge/osx-arm64::libsodium-1.0.18-h27ca646_1
+-conda-forge/osx-arm64::psutil-5.9.5-py39h02fc5c5_0
+-conda-forge/osx-arm64::pyzmq-25.0.2-py39h0553236_0
+-conda-forge/osx-arm64::scipy-1.10.1-py39h18313fe_0
+-conda-forge/osx-arm64::tornado-6.3.2-py39h0f82c59_0
+-conda-forge/osx-arm64::zeromq-4.3.4-hbdafb3b_1
+-defaults/noarch::appdirs-1.4.4-pyhd3eb1b0_0
+-defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
+-defaults/noarch::pooch-1.4.0-pyhd3eb1b0_0
+-defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
+-defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
+-defaults/osx-arm64::blas-1.0-openblas
+-defaults/osx-arm64::brotlipy-0.7.0-py39h1a28f6b_1002
+-defaults/osx-arm64::cffi-1.15.1-py39h22df2f2_0
+-defaults/osx-arm64::cryptography-39.0.1-py39h834c97f_0
+-defaults/osx-arm64::idna-3.4-py39hca03da5_0
+-defaults/osx-arm64::joblib-1.1.1-py39hca03da5_0
+-defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
+-defaults/osx-arm64::pyopenssl-23.0.0-py39hca03da5_0
+-defaults/osx-arm64::pysocks-1.7.1-py39hca03da5_0
+-defaults/osx-arm64::requests-2.29.0-py39hca03da5_0
+-defaults/osx-arm64::scikit-learn-1.2.2-py39h313beb8_1
+-defaults/osx-arm64::urllib3-1.26.15-py39hca03da5_0
++conda-forge/osx-arm64::blas-2.116-openblas
++conda-forge/osx-arm64::blas-devel-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::liblapacke-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::libopenblas-0.3.21-openmp_hc731615_3
++conda-forge/osx-arm64::openblas-0.3.21-openmp_hf78f355_3
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::importlib_metadata-6.0.0-hd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pexpect-4.8.0-pyhd3eb1b0_3
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::ptyprocess-0.7.0-pyhd3eb1b0_2
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/osx-arm64::appnope-0.1.2-py39hca03da5_1001
++defaults/osx-arm64::comm-0.1.2-py39hca03da5_0
++defaults/osx-arm64::importlib-metadata-6.0.0-py39hca03da5_0
++defaults/osx-arm64::ipython-8.12.0-py39hca03da5_0
++defaults/osx-arm64::jedi-0.18.1-py39hca03da5_1
++defaults/osx-arm64::jupyter_client-8.1.0-py39hca03da5_0
++defaults/osx-arm64::jupyter_core-5.3.0-py39hca03da5_0
++defaults/osx-arm64::libsodium-1.0.18-h1a28f6b_0
++defaults/osx-arm64::matplotlib-inline-0.1.6-py39hca03da5_0
++defaults/osx-arm64::nest-asyncio-1.5.6-py39hca03da5_0
++defaults/osx-arm64::packaging-23.0-py39hca03da5_0
++defaults/osx-arm64::platformdirs-2.5.2-py39hca03da5_0
++defaults/osx-arm64::prompt-toolkit-3.0.36-py39hca03da5_0
++defaults/osx-arm64::psutil-5.9.0-py39h1a28f6b_0
++defaults/osx-arm64::pygments-2.15.1-py39hca03da5_1
++defaults/osx-arm64::pyzmq-25.0.2-py39h313beb8_0
++defaults/osx-arm64::tornado-6.2-py39h1a28f6b_0
++defaults/osx-arm64::traitlets-5.7.1-py39hca03da5_0
++defaults/osx-arm64::typing_extensions-4.5.0-py39hca03da5_0
++defaults/osx-arm64::zeromq-4.3.4-hc377ac9_0
++defaults/osx-arm64::zipp-3.11.0-py39hca03da5_0
+# remove specs: ['scikit-learn']
+==> 2023-05-25 13:28:42 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda install -c conda-forge scikit-learn
+# conda version: 23.3.1
+-defaults/osx-arm64::ca-certificates-2023.01.10-hca03da5_0
+-defaults/osx-arm64::certifi-2023.5.7-py39hca03da5_0
+-defaults/osx-arm64::openssl-1.1.1t-h1a28f6b_0
++conda-forge/noarch::certifi-2023.5.7-pyhd8ed1ab_0
++conda-forge/noarch::charset-normalizer-3.1.0-pyhd8ed1ab_0
++conda-forge/noarch::idna-3.4-pyhd8ed1ab_0
++conda-forge/noarch::joblib-1.2.0-pyhd8ed1ab_0
++conda-forge/noarch::pooch-1.7.0-pyha770c72_3
++conda-forge/noarch::pysocks-1.7.1-pyha2e5f31_6
++conda-forge/noarch::requests-2.31.0-pyhd8ed1ab_0
++conda-forge/noarch::threadpoolctl-3.1.0-pyh8a188c0_0
++conda-forge/noarch::urllib3-2.0.2-pyhd8ed1ab_0
++conda-forge/osx-arm64::brotli-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::brotli-bin-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::ca-certificates-2023.5.7-hf0a4a13_0
++conda-forge/osx-arm64::libbrotlicommon-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::libbrotlidec-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::libbrotlienc-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::openssl-1.1.1t-h03a7124_0
++conda-forge/osx-arm64::scikit-learn-1.2.2-py39h6180588_1
++conda-forge/osx-arm64::scipy-1.10.1-py39h18313fe_0
+# update specs: ['scikit-learn']
+==> 2023-05-25 13:33:19 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda install -c conda-forge xgboost
+# conda version: 23.3.1
++conda-forge/osx-arm64::_py-xgboost-mutex-2.0-cpu_0
++conda-forge/osx-arm64::libxgboost-1.7.4-cpu_h13cf1d8_0
++conda-forge/osx-arm64::py-xgboost-1.7.4-cpu_py39h6861412_0
++conda-forge/osx-arm64::xgboost-1.7.4-cpu_py39h2fb42d7_0
+# update specs: ['xgboost']
